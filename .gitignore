@@ -1,2 +1,7 @@
+# default
 .idea
 .DS_Store
+
+
+# envirment set
+.envrc
